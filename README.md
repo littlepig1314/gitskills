@@ -29,3 +29,5 @@ Creating a new branch is quick。
 所以有一天我走了，
 不要挂念我，
 我只是去寻找曾经的我。
+*************************************************
+Creating a new branch is quick AND simple.
