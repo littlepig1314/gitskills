@@ -31,3 +31,5 @@ Creating a new branch is quick。
 我只是去寻找曾经的我。
 *************************************************
 Creating a new branch is quick AND simple.
+*************************************************
+解决冲突测试--feature1
